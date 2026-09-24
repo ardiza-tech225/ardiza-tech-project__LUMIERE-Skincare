@@ -1,2 +1,2 @@
-# LUMIERE-Skin-demo
-Lumiere skincare  website (Demo)
+# LUMIERE-Skincare
+Lumiere skincare  website
